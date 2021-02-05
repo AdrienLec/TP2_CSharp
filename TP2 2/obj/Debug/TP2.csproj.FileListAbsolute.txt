@@ -1,0 +1,2 @@
+/Users/adrienlecaplain/Downloads/TP2 2/obj/Debug/TP2.csprojAssemblyReference.cache
+/Users/adrienlecaplain/Downloads/TP2 2/obj/Debug/TP2.csproj.CoreCompileInputs.cache
